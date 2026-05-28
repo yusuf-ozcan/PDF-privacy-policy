@@ -56,7 +56,7 @@ We recommend keeping your device updated and secured with Face ID, Touch ID, or 
 
 You can view the full Privacy Policy here:
 
-👉 https://YOUR_GITHUB_PAGES_URL_HERE
+👉 https://yusuf-ozcan.github.io/PDF-privacy-policy/
 
 ---
 
